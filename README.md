@@ -10,9 +10,15 @@
 
 
 ### Git-Installation mit Sourcetree / GitHub  
-   [GitHub Account erstellen](https://www.github.com)  
-   [Sourcetree installieren für GUI-Git](https://www.sourcetreeapp.com/)  
-   [Github Student Developer Pack](https://www.openhsr.ch/tipps/github-education-pack/)  
+   1. [GitHub Account erstellen](https://www.github.com)  
+   2. [Github Student Developer Pack](https://www.openhsr.ch/tipps/github-education-pack/)
+   3. [Sourcetree installieren für GUI-Git](https://www.sourcetreeapp.com/)  
+   3.1 Atlassin Account erstellen  
+   3.2 Mit GitHub-Account verknüpfen  
+   3.3 Es muss kein Globales .gitignore File erstellt werden  
+   3.4 Es muss kein SSH-Schlüssel erstellt werden  
+   3.5 Sobald du bei Clonen eines Repos angelang bist, kann das Setup übersprungen werden
+     
    
 ### Sourcetree
 
