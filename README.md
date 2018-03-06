@@ -21,7 +21,7 @@
 1. Öffne Sourcetree  
 2. Klicke auf das + bei den Tabs  
 3. Du hast die Auswahl zwischen Clonen, Add und Create.  
-4. Um ein bestehendes Repo zu Clonen, klicke auf Clonen.
+4. Um ein bestehendes Repo zu Clonen, klicke auf Clonen.  
 4.1 Gib den Pfad zum Repo ein. Bsp. : https://github.com/HSR-Stud/Willkommen.git  
 4.2 Wähle aus, wo das Repo gespeichert werden soll. Achtung nicht in einer Cloud (Google Drive, Dropbox etc.).  
 4.3 Gib an, wie die Kopie des Repos auf deinem Rechner heissen soll.  
