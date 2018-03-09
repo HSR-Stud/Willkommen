@@ -1,12 +1,12 @@
 # Willkommen
 Dies Repo dient dazu einen leichteren Einstieg in Latex, GitHub, Git und SourceTree zu finden. 
-Du findest hier Informationen zu Fragen wie:
-1.) [Was ist LaTex?](https://praxistipps.chip.de/was-ist-latex-einfach-erklaert_48193)
-2.) [Wie installiere ich Latex?](https://github.com/HSR-Stud/Willkommen/blob/master/installation.md#latex) 
-3.) [Was ist GitHub?](https://t3n.de/news/eigentlich-github-472886/)
-4.) [Wie finde ich mich auf dem HSR-Stud-Repo zurecht?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Find%20a%20Repository.md#how-to-find-a-repository) 
-5.) [Was ist Git und wie funktioniert Sourcetree?](https://confluence.atlassian.com/get-started-with-sourcetree
-6.) Wie installiere ich Sourcetree?(https://github.com/HSR-Stud/Willkommen/blob/master/installation.md#sourcetree)
+Du findest hier Informationen zu Fragen wie: \\
+1.) [Was ist LaTex?](https://praxistipps.chip.de/was-ist-latex-einfach-erklaert_48193) \\
+2.) [Wie installiere ich Latex?](https://github.com/HSR-Stud/Willkommen/blob/master/installation.md#latex) \\
+3.) [Was ist GitHub?](https://t3n.de/news/eigentlich-github-472886/) \\
+4.) [Wie finde ich mich auf dem HSR-Stud-Repo zurecht?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Find%20a%20Repository.md#how-to-find-a-repository)  \\
+5.) [Was ist Git und wie funktioniert Sourcetree?](https://confluence.atlassian.com/get-started-with-sourcetree \\
+6.) Wie installiere ich Sourcetree?(https://github.com/HSR-Stud/Willkommen/blob/master/installation.md#sourcetree) \\
 
 # Werde aktiv
 Willst du eigene Repos erstellen oder bei uns im Admin-Team mithelfen? 
