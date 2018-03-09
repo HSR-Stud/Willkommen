@@ -1,4 +1,4 @@
-## Wie finde ich mich auf dem HSR-Stud-Repo zurecht?
+## Wie finde ich mich auf HSR-Stud zurecht?
 Die Suchfunktion hilft unterhalb der angepinnten Repositories hilft dir dich zurechtzufinden. 
 Die Suche funktioniert mit verschiedenen Tags. Dabei gibt es Tags für [latex](https://github.com/search?q=topic%3Alatex+org%3AHSR-Stud&type=Repositories) und [vorlage](https://github.com/search?q=topic%3Avorlage+org%3AHSR-Stud&type=Repositories) sowie Modulname und das Semester (gemäss Musterstudienplan).
 
