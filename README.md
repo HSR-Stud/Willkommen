@@ -7,7 +7,7 @@ Du findest hier Informationen zu Fragen wie:
 - [Was ist LaTex?](https://praxistipps.chip.de/was-ist-latex-einfach-erklaert_48193) 
 - [Wie installiere ich Latex?](https://github.com/HSR-Stud/Willkommen/blob/master/installation.md#latex) 
 - [Was ist GitHub?](https://t3n.de/news/eigentlich-github-472886/) 
-- [Wie finde ich mich auf dem HSR-Stud-Repo zurecht?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Find%20a%20Repository.md#how-to-find-a-repository)  
+- [Wie finde ich mich auf dem HSR-Stud zurecht?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Find%20a%20Repository.md#how-to-find-a-repository)  
 - [Was ist Git und wie funktioniert Sourcetree?](https://confluence.atlassian.com/get-started-with-sourcetree)
 - [Wie installiere ich Sourcetree?](https://github.com/HSR-Stud/Willkommen/blob/master/installation.md#sourcetree)
 
