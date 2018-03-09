@@ -14,8 +14,8 @@ Du findest hier Informationen zu Fragen wie:
 # Werde aktiv
 Dieses Projekt ist auf deine Hilfe angewiesen. Damit die Zusammenfassungen aktuell bleiben und Fehler korrigiert werden brauchen wir deine Unterstützung. Willst du eigene Repos erstellen oder bei uns im Admin-Team mithelfen? Dann schreibe ein E-Mail an fachschaft-e@hsr.ch mit deinem GitHub-Username.
 Hier findest du weitere Infos, die für dich als aktiver Contributor interessant sein könnten:
--  Wie erstelle ich ein Repository? [HowTo-Create a Repository](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Create%20a%20Repository.md#create-a-repository)
-- Wie nutze ich Travis zur automatischen Erzeugung eines PDF's? [HowTo-Travis](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Travis.md#travis)
+- [Wie erstelle ich ein Repository?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Create%20a%20Repository.md#create-a-repository)
+- [Wie nutze ich Travis zur automatischen Erzeugung eines PDF's?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Travis.md#travis)
 - Wie kann die Submodules löschen oder Fehler beim Submodule-Link beheben?
 
 # Weitersagen
