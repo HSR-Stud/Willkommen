@@ -1,5 +1,5 @@
 # Was ist der Grundgedanke hinter HSR-Stud?
-An der HSR finden jedes Jahr ähnliche Prüfungen zum selben Stoff statt. Warum also immer alle Zusammenfassungen selber schreiben? Es gibt doch sicher Zusammenfassungen von den Vorgänger! Das Projekt HSR-Stud verfolgt genau dieses Ziel: Hier werden LaTeX-Zusammenfassungen gesammelt und zur Verfügung gestellt.Im Gegensatz zum Studentenportal, wo fertige Zusammenfassungen gepostet werden, ist dieses Projekt für die gemeinsame kontinuierliche Arbeit an Zusammenfassungen gedacht.
+An der HSR finden jedes Jahr ähnliche Prüfungen zum selben Stoff statt. Warum also immer alle Zusammenfassungen selber schreiben? Es gibt doch sicher Zusammenfassungen von den Vorgänger! Das Projekt HSR-Stud verfolgt genau dieses Ziel: Hier werden LaTeX-Zusammenfassungen gesammelt und zur Verfügung gestellt. Im Gegensatz zum Studentenportal, wo fertige Zusammenfassungen gepostet werden, ist dieses Projekt für die gemeinsame kontinuierliche Arbeit an Zusammenfassungen gedacht.
 
 # Was findest du in diesem Repo
 Dies Repo dient dir dazu einen leichteren Einstieg in Latex, GitHub, Git und SourceTree zu finden.
