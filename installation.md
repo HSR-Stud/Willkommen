@@ -17,20 +17,6 @@ GitHub basiert auf der Software Git, welche zur Versionskontrolle & -verwaltung 
    3.4 Es muss kein SSH-Schlüssel erstellt werden  
    3.5 Sobald du beim Clonen eines Repos angelang bist, kann du den weiteren Setup übersprungen  
 
-### Clonen eines Repos mit Sourcetree
-1. Öffne Sourcetree  
-2. Klicke auf das + bei den Tabs  
-3. Du hast die Auswahl zwischen Clonen, Add und Create.  
-4. Um ein bestehendes Repo zu Clonen, klicke auf Clonen.  
-4.1 Gib den Pfad zum Repo ein. Bsp. : https://github.com/HSR-Stud/Willkommen.git  
-4.2 Wähle aus, wo das Repo gespeichert werden soll. Achtung nicht in einer Cloud (Google Drive, Dropbox etc.).  
-4.3 Gib an, wie die Kopie des Repos auf deinem Rechner heissen soll.  
-4.3.1 (!) Wenn das Repo Submodule enthält, musst du unter Advanced Options die Checkbox "Recurse submodules" aktivieren.  
-Falls du auf Probleme stösst findest du hier noch die offizielle [Sourcetree Anleitung zum Clonen eines Repos](https://confluence.atlassian.com/bitbucket/clone-a-repository-223217891.html). 
+[Wie erstelle oder clone ich ein Repository?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Create%20a%20Repository.md#create-a-repository)  
+[Home](https://github.com/HSR-Stud/Willkommen)
 
-#### Submodule
-Submodule sind eigenständige Repos, welche als Inputs in andere Repos gelinkt wurden (oftmals header oder idiotenseite). 
-Wurde bei einem Repo mit Submodulen anfänglich vergessen diese hinzuzufügen kannst du folgende Schritte unternehmen:  
-1. Gehe auf das Repo in Sourcetree
-2. Unten links findest du den Reiter *Submodule*. Dort siehst du die verwendeten Submodules.  
-3. Mit einem Rechtsklick auf dem Submodule kannst du auf anzeigen drücken und dann wird es heruntergeladen.
