@@ -2,7 +2,7 @@
 1. Öffne Sourcetree 
 2. Klicke auf das + bei den Tabs  
 3. Du hast die Auswahl zwischen Clonen, Add und Create.  
-4. Um ein neues Repository zu erstellen klicke auf Create.
+4. Um ein neues Repository zu erstellen klicke auf Create.  
 4.1 Wähle aus, wo das Repo erstellt werden soll. Achtung nicht in einer Cloud (Google Drive, Dropbox etc.).  
 4.2  Gib an, wie das Repo auf deinem Rechner heissen soll.  
 4.3 Klicke auf Create  
@@ -22,8 +22,8 @@ Wenn du nachträglich dein Repo auch auf Github laden willst musst du folgenderm
 1. Gehe auf [Github](www.github.com)  
 2. Klicke auf das + oben rechts neben deinem Profilbild.  
 3. Klick auf New repository
-4. Wähle den Owner 
-4.1 Du kannst entweder dein Usernamen auswählen oder ein Repo in HSR-Stud erstellen.
+4. Wähle den Owner  
+4.1 Du kannst entweder dein Usernamen auswählen oder ein Repo in HSR-Stud erstellen.  
 5. Wähle aus ob das Repo öffentlich oder privat ist.
 6. Klicke auf Create repository.
 
