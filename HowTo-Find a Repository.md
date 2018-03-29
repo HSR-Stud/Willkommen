@@ -28,7 +28,7 @@ Sortiert nach Semester
 Alle Repos [Maschinenbau](https://github.com/search?q=topic%3Amaschinenbau+org%3AHSR-Stud&type=Repositories)  
 Sortiert nach Semester  
 [mi-sem5](https://github.com/search?q=topic%3Ami-sem5+org%3AHSR-Stud&type=Repositories)  
-
+[mi-sem6](https://github.com/search?q=topic%3Ami-sem6+org%3AHSR-Stud&type=Repositories)  
 #### Bauingenieur
 Alle Repos [Bauingenieur](https://github.com/search?q=topic%3Abauingenieur+org%3AHSR-Stud&type=Repositories)  
 Sortiert nach Semester  
