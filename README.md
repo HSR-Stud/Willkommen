@@ -13,7 +13,7 @@ Du findest hier Informationen zu Fragen wie:
 - [Wie installiere ich Sourcetree?](https://github.com/HSR-Stud/Willkommen/blob/master/installation.md#sourcetree)
 
 ### Werde aktiv
-Dieses Projekt ist auf deine Hilfe angewiesen. Damit die Zusammenfassungen aktuell bleiben und Fehler korrigiert werden brauchen wir deine Unterstützung. Willst du eigene Repos erstellen oder bei uns im Admin-Team mithelfen? Dann schreibe ein E-Mail an fachschaft-e@hsr.ch mit deinem GitHub-Username.
+Dieses Projekt ist auf deine Hilfe angewiesen. Damit die Zusammenfassungen aktuell bleiben und Fehler korrigiert werden brauchen wir deine Unterstützung. Willst du eigene Repos erstellen oder bei uns im Admin-Team mithelfen? Dann schreibe ein E-Mail an fachschaft@elektrotechnik-hsr.ch mit deinem GitHub-Username.
 Hier findest du weitere Infos, die für dich als aktiver Contributor interessant sein könnten:
 - [Wie erstelle oder clone ich ein Repository?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Create%20a%20Repository.md#create-a-repository)
 - [Wie nutze ich Travis zur automatischen Erzeugung eines PDF's?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Travis.md#travis)  
@@ -25,4 +25,4 @@ Mache diese Seite möglichst vielen anderen HSR-Studenten bekannt. Denn mehr Mit
 ### Support
 Kein Plan wie das ganze funktioniert? Im [Wiki](http://hsr-stud.github.io/) findest du Anleitungen und viele Tipps.
 Wenn du Fragen zu LaTeX hast, gibts zudem hier meistens sehr schnell sehr gute Antworten: http://tex.stackexchange.com/.
-Notfalls kannst du dich auch ans Adminteam wenden unter fachschaft-e@hsr.ch. 
+Notfalls kannst du dich auch ans Adminteam wenden unter fachschaft@elektrotechnik-hsr.ch. 
