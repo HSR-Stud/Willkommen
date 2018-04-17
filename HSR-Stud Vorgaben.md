@@ -14,7 +14,7 @@ Weitere Details gibts auf http://creativecommons.org/licenses/.
 
 Einen Wizard, um eine CC Lizenz auszuwählen, gibts auf http://creativecommons.org/choose/.
 
-Um die gewählte Lizenz in dein Projekt zu übernehmen, ist es am einfachsten, eines der Textfiles auf https://github.com/HSR-Stud/hsr-stud.github.com/tree/master/lizenzen als **LICENSE.txt** in dein Projekt zu kopieren.
+Um die gewählte Lizenz in dein Projekt zu übernehmen, ist es am Einfachsten, das entsprechende MarkDown-File aus diesem [Ordner](https://github.com/HSR-Stud/Creative-Commons-Markdown/tree/master/4.0) als **LICENSE.txt** in dein Projekt zu kopieren.
 
 ## Beitragende auflisten ##
 Es ist fair, alle Leute zu erwähnen, die zu einer Zusammenfassung beigetragen haben. Deshalb soll jedes Repository im Hauptverzeichnis eine Datei namens **ONTRIBUTORS.txt** haben, welche alle Mitwirkenden auflistet.
