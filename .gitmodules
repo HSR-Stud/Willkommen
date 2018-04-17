@@ -1,3 +1,6 @@
 [submodule "markdown-here.wiki"]
 	path = markdown-here.wiki
 	url = https://github.com/adam-p/markdown-here.wiki.git
+[submodule "Travis"]
+	path = Travis
+	url = https://github.com/HSR-Stud/Travis.git
