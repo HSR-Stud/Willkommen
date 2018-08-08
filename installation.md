@@ -38,5 +38,15 @@ GitHub basiert auf der Software Git, welche zur Versionskontrolle & -verwaltung 
    3.5 Sobald du beim Clonen eines Repos angelang bist, kann du den weiteren Setup übersprungen  
 
 [Wie erstelle oder clone ich ein Repository?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Create%20a%20Repository.md#create-a-repository)  
+
+## Weitere nützliche Tools
+
+- [excel2latex](https://ctan.org/pkg/excel2latex?lang=de)  
+   Konvertiert Excel-Tabellen unter Beibehaltung der Formatierungen und Berechnungen in das LaTeX-Format.  
+- [mathpix](https://mathpix.com/)  
+   Erstelle einen Screenshot einer Formel und kopiere den daraus erstellten LaTeX-Code in den Editor.  
+- [matlab2tikz](https://tomlankhorst.nl/matlab-to-latex-with-matlab2tikz/)  
+    Konvertiere Matlab-Plots in ein TikZ/Pgfplots.  
+	  
 [Home](https://github.com/HSR-Stud/Willkommen)
 
