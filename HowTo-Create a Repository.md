@@ -22,6 +22,7 @@ Wenn du nachträglich dein Repo auch auf Github laden willst musst du folgenderm
 1. Gehe auf [Github](www.github.com)  
 2. Klicke auf das + oben rechts neben deinem Profilbild.  
 3. Klick auf New repository
+3.1 Der Name des Repository sollte im Stil von Elo2_FS16 sein.
 4. Wähle den Owner  
 4.1 Du kannst entweder dein Usernamen auswählen oder ein Repo in HSR-Stud erstellen.  
 5. Wähle aus ob das Repo öffentlich oder privat ist.
