@@ -3,7 +3,7 @@
 ### Was ist der Grundgedanke hinter HSR-Stud?
 An der HSR finden jedes Jahr ähnliche Prüfungen zum selben Stoff statt. Warum also immer alle Zusammenfassungen selber schreiben? Es gibt doch sicher Zusammenfassungen von den Vorgänger! Das Projekt HSR-Stud verfolgt genau dieses Ziel: Hier werden LaTeX-Zusammenfassungen gesammelt und zur Verfügung gestellt. Im Gegensatz zum Studentenportal, wo fertige Zusammenfassungen gepostet werden, ist dieses Projekt für die gemeinsame kontinuierliche Arbeit an Zusammenfassungen gedacht.
 
-### Was findest du in diesem Repo
+### Was findest du in diesem Repo?
 Dies Repo dient dir dazu einen leichteren Einstieg in Latex, GitHub, Git und SourceTree zu finden.
 Du findest hier Informationen zu Fragen wie: 
 - [Was ist LaTex?](https://praxistipps.chip.de/was-ist-latex-einfach-erklaert_48193) 
@@ -12,15 +12,17 @@ Du findest hier Informationen zu Fragen wie:
 - [Was ist GitHub?](https://t3n.de/news/eigentlich-github-472886/) 
 
 #### Inhaltsverzeichnis
-- [Wie finde ich mich auf dem HSR-Stud zurecht?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Find%20a%20Repository.md#how-to-find-a-repository)  
-- [Wie installiere ich Latex?](https://github.com/HSR-Stud/Willkommen/blob/master/installation.md#latex) 
-- [Wie installiere ich Sourcetree?](https://github.com/HSR-Stud/Willkommen/blob/master/installation.md#sourcetree)
+- [Installation](https://github.com/HSR-Stud/Willkommen#installation)  
+- [Wie finde ich Repositorys auf HSR-Stud?](https://github.com/HSR-Stud/Willkommen#wie-finde-ich-repositorys-auf-hsr-stud)  
+- [Wie erstelle ich ein Repository auf HSR-Stud?](https://github.com/HSR-Stud/Willkommen#wie-erstelle-ich-ein-repository-auf-hsr-stud) 
+- [HSR-Stud Vorgaben](https://github.com/HSR-Stud/Willkommen#hsr-stud-vorgaben)  
+- [Travis](https://github.com/HSR-Stud/Willkommen#travis)  
 
 ### Werde aktiv
 Dieses Projekt ist auf deine Hilfe angewiesen. Damit die Zusammenfassungen aktuell bleiben und Fehler korrigiert werden brauchen wir deine Unterstützung. Willst du eigene Repos erstellen oder bei uns im Admin-Team mithelfen? Dann schreibe ein E-Mail an fachschaft@elektrotechnik-hsr.ch mit deinem GitHub-Username.
 Hier findest du weitere Infos, die für dich als aktiver Contributor interessant sein könnten:
-- [Wie erstelle oder clone ich ein Repository?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Create%20a%20Repository.md#create-a-repository)
-- [Wie nutze ich Travis zur automatischen Erzeugung eines PDF's?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Travis.md#travis)  
+- [Wie erstelle oder clone ich ein Repository?](https://github.com/HSR-Stud/Willkommen#wie-erstelle-ich-ein-repository-auf-hsr-stud)
+- [Wie nutze ich Travis zur automatischen Erzeugung eines PDF's?](https://github.com/HSR-Stud/Willkommen#travis)  
 <!--- Wie kann die Submodules löschen oder Fehler beim Submodule-Link beheben?--->
 
 ### Weitersagen
@@ -72,7 +74,6 @@ GitHub basiert auf der Software Git, welche zur Versionskontrolle & -verwaltung 
    3.4 Es muss kein SSH-Schlüssel erstellt werden  
    3.5 Sobald du beim Clonen eines Repos angelang bist, kann du den weiteren Setup übersprungen  
 
-[Wie erstelle oder clone ich ein Repository?](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Create%20a%20Repository.md#create-a-repository)  
 
 ## Weitere nützliche Tools
 
@@ -83,7 +84,7 @@ GitHub basiert auf der Software Git, welche zur Versionskontrolle & -verwaltung 
 - [matlab2tikz](https://tomlankhorst.nl/matlab-to-latex-with-matlab2tikz/)  
     Konvertiere Matlab-Plots in ein TikZ/Pgfplots.  
 	  
-[Home](https://github.com/HSR-Stud/Willkommen)
+[Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
 ----
 
@@ -124,6 +125,8 @@ Sortiert nach Semester
 
 #### MSE
 Alle Repos [MSE](https://github.com/search?q=topic%3Amse+org%3AHSR-Stud&type=Repositories)  
+
+[Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
 ---
 
@@ -184,7 +187,7 @@ Wurde bei einem Repo mit Submodulen anfänglich vergessen diese hinzuzufügen ka
 --->
 
 
-[Home](https://github.com/HSR-Stud/Willkommen)
+[Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
 ---
 
@@ -224,6 +227,7 @@ Im LATeX 2ε–Sündenregister werden sinnvolle Richtlinien zum Umgang mit LaTeX
 Wenn man das Package nag nutzt, werden l2tabu-Verstösse automatisch als Warnungen auf der Konsole ausgegeben.
 <!--- LINK TOT Weitere "Best Practices" zu LaTeX gibts hier: http://stackoverflow.com/questions/193298/best-practices-in-latex --->
 
+[Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
 ---
 
@@ -232,7 +236,7 @@ Wenn man das Package nag nutzt, werden l2tabu-Verstösse automatisch als Warnung
 Travis kann als ein Tool verwendet werden um Repos automatisiert zu "builden". Falls im gewählten Repo ein neuer Tag erstellt wird, dann wird der Build (PDF-File) unter deinem Namen im Projekt released. \
 Weitere Infos findest du unter: [Travis README](https://github.com/HSR-Stud/Travis/blob/master/README.md)
 
-
+[Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
 
 
