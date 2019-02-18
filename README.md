@@ -12,10 +12,11 @@ Du findest hier Informationen zu Fragen wie:
 - [Was ist GitHub?](https://t3n.de/news/eigentlich-github-472886/) 
 
 #### Inhaltsverzeichnis
-
-[TOC]
-
-------
+- [Installation](https://github.com/HSR-Stud/Willkommen#installation)  
+- [Wie finde ich Repositorys auf HSR-Stud?](https://github.com/HSR-Stud/Willkommen#wie-finde-ich-repositorys-auf-hsr-stud)  
+- [Wie erstelle ich ein Repository auf HSR-Stud?](https://github.com/HSR-Stud/Willkommen#wie-erstelle-ich-ein-repository-auf-hsr-stud) 
+- [HSR-Stud Vorgaben](https://github.com/HSR-Stud/Willkommen#hsr-stud-vorgaben)  
+- [Travis](https://github.com/HSR-Stud/Willkommen#travis)  
 
 ### Werde aktiv
 Dieses Projekt ist auf deine Hilfe angewiesen. Damit die Zusammenfassungen aktuell bleiben und Fehler korrigiert werden brauchen wir deine Unterstützung. Willst du eigene Repos erstellen oder bei uns im Admin-Team mithelfen? Dann schreibe ein E-Mail an fachschaft@elektrotechnik-hsr.ch mit deinem GitHub-Username.
@@ -32,15 +33,15 @@ Kein Plan wie das ganze funktioniert? Im [Wiki](http://hsr-stud.github.io/) find
 Wenn du Fragen zu LaTeX hast, gibts zudem hier meistens sehr schnell sehr gute Antworten: http://tex.stackexchange.com/.
 Notfalls kannst du dich auch ans Adminteam wenden unter fachschaft@elektrotechnik-hsr.ch. 
 
----
+---  
 
  # Installation
  ## LaTeX 
  Damit du Latex nutzen kannst musst du zuerst ein Softwarepaket und dann einen Editor herunterladen.
-
+ 
  ### LaTeX Distribution
  Die beliebtesten Latex distributionen sind MikTex und TexLive. Beide Distributionen sind Cross-Platform. Die Installation sollte mit Adminrechten ausgeführt werden.
-
+ 
 - [MikTex](https://miktex.org/download) 
 - [TexLive](https://www.tug.org/texlive/acquire-netinstall.html)
 	- [Direct Link für den Windows-Installer](http://mirror.ctan.org/systems/texlive/tlnet/install-tl-windows.exe)
@@ -64,14 +65,14 @@ Ein kleiner Tipp: gib das `bin` directory der Distribution unten an, damit du ni
 ## Git-Installation mit Sourcetree / GitHub
 GitHub basiert auf der Software Git, welche zur Versionskontrolle & -verwaltung eingesetzt wird. Git kann von der Kommandozeile (Git CMD) aus genutzt werden. Dies ist jedoch sehr mühsam, weshalb wir die Nutzung des Git-Guis Sourcetree empfehlen. 
    1. [GitHub Account erstellen](https://www.github.com)
-      Dabei solltest du unbedingt deine HSR-Emailadresse verwenden, denn dann hast du direkt Anspruch auf ein Github Student Developer Pack.    Dies erlaubt es dir unlimitierte private Repositories auf Github zu erstellen, Gratis Continuous Integration mit Travis-CI für private    Repositories sowie AWS und Digital Ocean Credits. 
+   Dabei solltest du unbedingt deine HSR-Emailadresse verwenden, denn dann hast du direkt Anspruch auf ein Github Student Developer Pack.    Dies erlaubt es dir unlimitierte private Repositories auf Github zu erstellen, Gratis Continuous Integration mit Travis-CI für private    Repositories sowie AWS und Digital Ocean Credits. 
    2. [Github Student Developer Pack beantragen](https://www.openhsr.ch/tipps/github-education-pack/)  
    3. [Sourcetree installieren für ein Git_GUI](https://www.sourcetreeapp.com/)  
-      3.1 Atlassin Account erstellen (zwar ist sourcetree gratis, aber dennoch benötigst du eine Lizenz)  
-      3.2 Mit GitHub-Account verknüpfen (am Besten bist du dann immernoch im Browser auf GitHub eingeloggt)  
-      3.3 Es muss kein globales .gitignore File erstellt werden  
-      3.4 Es muss kein SSH-Schlüssel erstellt werden  
-      3.5 Sobald du beim Clonen eines Repos angelang bist, kann du den weiteren Setup übersprungen  
+   3.1 Atlassin Account erstellen (zwar ist sourcetree gratis, aber dennoch benötigst du eine Lizenz)  
+   3.2 Mit GitHub-Account verknüpfen (am Besten bist du dann immernoch im Browser auf GitHub eingeloggt)  
+   3.3 Es muss kein globales .gitignore File erstellt werden  
+   3.4 Es muss kein SSH-Schlüssel erstellt werden  
+   3.5 Sobald du beim Clonen eines Repos angelang bist, kann du den weiteren Setup übersprungen  
 
 
 ## Weitere nützliche Tools
@@ -82,8 +83,7 @@ GitHub basiert auf der Software Git, welche zur Versionskontrolle & -verwaltung 
    Erstelle einen Screenshot einer Formel und kopiere den daraus erstellten LaTeX-Code in den Editor.  
 - [matlab2tikz](https://tomlankhorst.nl/matlab-to-latex-with-matlab2tikz/)  
     Konvertiere Matlab-Plots in ein TikZ/Pgfplots.  
-	
-
+	  
 [Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
 ----
@@ -139,7 +139,7 @@ Alle Repos [MSE](https://github.com/search?q=topic%3Amse+org%3AHSR-Stud&type=Rep
 4.1 Wähle aus, wo das Repo erstellt werden soll. Achtung nicht in einer Cloud (Google Drive, Dropbox etc.).  
 4.2  Gib an, wie das Repo auf deinem Rechner heissen soll.  
 4.3 Klicke auf Create  
-
+  
 Wenn du nachträglich dein Repo auch auf Github laden willst musst du folgendermassen vorgehen:  
 1. Erstelle ein Repository auf Github.  
 2. Gehe in Sourcetree auf das Repo welches du auf Github laden willst.  
@@ -232,7 +232,7 @@ Wenn man das Package nag nutzt, werden l2tabu-Verstösse automatisch als Warnung
 ---
 
 # Travis
-
+     
 Travis kann als ein Tool verwendet werden um Repos automatisiert zu "builden". Falls im gewählten Repo ein neuer Tag erstellt wird, dann wird der Build (PDF-File) unter deinem Namen im Projekt released. \
 Weitere Infos findest du unter: [Travis README](https://github.com/HSR-Stud/Travis/blob/master/README.md)
 
