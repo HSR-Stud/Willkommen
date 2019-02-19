@@ -83,6 +83,8 @@ GitHub basiert auf der Software Git, welche zur Versionskontrolle & -verwaltung 
    Erstelle einen Screenshot einer Formel und kopiere den daraus erstellten LaTeX-Code in den Editor.  
 - [matlab2tikz](https://tomlankhorst.nl/matlab-to-latex-with-matlab2tikz/)  
     Konvertiere Matlab-Plots in ein TikZ/Pgfplots.  
+- [JabRef](http://www.jabref.org/)  
+    Bibliograpy reference manager für BibTeX.  	  
 	  
 [Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
