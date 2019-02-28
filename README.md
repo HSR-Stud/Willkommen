@@ -131,21 +131,6 @@ Alle Repos [MSE](https://github.com/search?q=topic%3Amse+org%3AHSR-Stud&type=Rep
 [Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
 ---
-
-# Richtlinien zum Upload von Repositories
-Damit wir kein Chaos auf HSR-Stud haben, bitten wir euch folgende Grundregeln bezüglich der Benennung zu befolgen:
-Jedes Repo sollte:
--  eine Lizenz enthalten, die klar deklariert, wie man die Zusammenfassung verwenden darf
--  mit Tags zu Modulname, Semesternummer, Studiengang versehen sein
--  ein ReadMe enthalten mit generellen Informationen (siehe ReadMe aus Vorlage-Repo)
--  sämtliche Contributoren aufführen
--  den richtigen Namen enthalten (siehe Namenskonvention)
-
-### Namenskonvention
-1. ModulName: Bei einem Repo von einem Fach von dem es bisher noch keine Zusammenfassung gab
-2. ModulName_Jahr: Bei einem neuen Repo, wo es schon eine erste Zusammenfassung gab
-3. Kein neues Repo: Wenn ein bestehendes Repo lediglich leicht abgeändert wurde
-
 # Wie erstelle ich ein Repository auf HSR-Stud?
 ### Erstelle ein lokales Repository mit Sourcetree
 1. Öffne Sourcetree 
@@ -208,7 +193,17 @@ Wurde bei einem Repo mit Submodulen anfänglich vergessen diese hinzuzufügen ka
 ---
 
 # HSR-Stud Vorgaben 
-Damit ein Dokument in die HSR-Stud Gruppe aufgenommen werden kann, gibt es einige zwingende Vorgaben:
+Damit ein Dokument in die HSR-Stud Gruppe aufgenommen werden kann, gibt es einige zwingende Vorgaben.
+Jedes Repo muss:
+-  eine Lizenz enthalten, die klar deklariert, wie man die Zusammenfassung verwenden darf
+-  sämtliche Contributoren aufführen
+-  mit Tags zu Modulname, Semesternummer, Studiengang versehen sein
+-  den richtigen Namen enthalten - also die Namenskonvention erfüllen
+-  sauberes Latex enthalten
+
+Ein vorbildliches Repo enthält zudem:
+-  ein ReadMe mit generellen Informationen (siehe ReadMe aus Vorlage-Repo)
+- "builded" autonom ein PDF bei jedem neuen Release mit Travis
 
 ## Lizenz deklarieren 
 Die Zusammenfassung muss als Creative Commons oder Public Domain veröffentlicht werden. Die Lizenz muss im README oder in der LICENSE.txt und im Dokument deklariert sein. Die CC-Lizenz welche keine Bearbeitung erlaubt ist dabei nicht zugelassen.
@@ -240,6 +235,12 @@ Bitte fügt eurem Repo die entsprechenden Tags in den Settings hinzu. Diese helf
 - Semester (z.B. e-sem3 - Elektrotechnik Semester 3)
 Weitere Hinweise zu häufig verwendeten Tags findet du [hier](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Find%20a%20Repository.md= ).
 
+## Namenskonvention
+1. ModulName: Bei einem Repo von einem Fach von dem es bisher noch keine Zusammenfassung gab
+2. ModulName_Jahr: Bei einem neuen Repo, wo es schon eine erste Zusammenfassung gab
+3. Kein neues Repo: Wenn ein bestehendes Repo lediglich leicht abgeändert wurde!
+WICHTIG: Es soll kein neues Repo erstellt werden, wenn lediglich kleine Änderungen/Verbesserungen gemacht wurden!
+
 ## Sauberes LaTeX schreiben 
 Im LATeX 2ε–Sündenregister werden sinnvolle Richtlinien zum Umgang mit LaTeX vorgegeben. Die "[Todsünden](http://dante.ctan.org/tex-archive/info/l2tabu/german/l2tabu.pdf)" sind zwingend zu beachten.
 Wenn man das Package nag nutzt, werden l2tabu-Verstösse automatisch als Warnungen auf der Konsole ausgegeben.
@@ -256,6 +257,13 @@ Weitere Infos findest du unter: [Travis README](https://github.com/HSR-Stud/Trav
 
 [Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
+---
 
+### Bestehendes Repo bearbeiten
 
+Du hast einen Fehler in einer bestehenden Zusammenfassung gefunden oder eine kleine  Verbesserung/Veränderung gemacht?
+Dann solltest du folgenden Schritten folgen:
+1.) xxx
+2.)
+3.)
 
