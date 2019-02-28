@@ -132,6 +132,20 @@ Alle Repos [MSE](https://github.com/search?q=topic%3Amse+org%3AHSR-Stud&type=Rep
 
 ---
 
+# Richtlinien zum Upload von Repositories
+Damit wir kein Chaos auf HSR-Stud haben, bitten wir euch folgende Grundregel bezüglich der Benennung zu befolgen:
+Jedes Repo sollte:
+a.) eine Lizenz enthalten, die klar deklariert, wie man die Zusammenfassung verwenden darf
+b.) mit Tags zu Modulname, Semesternummer, Studiengang versehen sein
+c.) ein ReadMe enthalten mit gernellen Informationen
+d.) sämtliche Contributoren aufführen
+e.) den richtigen Namen enthalten
+
+### Namenskonvention
+a.) ModulName: Bei einem Repo von einem Fach von dem es bisher noch keine Zusammenfassung gab
+b.) ModulName_Jahr: Bei einem neuen Repo, wo es schon eine erste Zusammenfassung gab
+c.) Kein neues Repo: Wenn ein bestehendes Repo lediglich leicht abgeändert wurde
+
 # Wie erstelle ich ein Repository auf HSR-Stud?
 ### Erstelle ein lokales Repository mit Sourcetree
 1. Öffne Sourcetree 
@@ -210,6 +224,8 @@ Weitere Details gibts auf http://creativecommons.org/licenses/.
 Einen Wizard, um eine CC Lizenz auszuwählen, gibts auf http://creativecommons.org/choose/.
 
 Um die gewählte Lizenz in dein Projekt zu übernehmen, ist es am Einfachsten, das entsprechende MarkDown-File aus diesem [Ordner](https://github.com/HSR-Stud/Creative-Commons-Markdown/tree/master/4.0) als **LICENSE.txt** in dein Projekt zu kopieren.
+
+Die Lizenz sollte im Header- oder Footer auf jedem Blatt deiner Zusammenfassung anzeigt werden. Schau dazu im "header"-Repo, dort findest du ein Beispiel, wie du die Lizenz einfügen kannst. 
 
 ## Beitragende auflisten 
 Es ist fair, alle Leute zu erwähnen, die zu einer Zusammenfassung beigetragen haben. Deshalb soll jedes Repository im Hauptverzeichnis eine Datei namens **CONTRIBUTORS.txt** haben, welche alle Mitwirkenden auflistet.
