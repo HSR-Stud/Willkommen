@@ -133,18 +133,18 @@ Alle Repos [MSE](https://github.com/search?q=topic%3Amse+org%3AHSR-Stud&type=Rep
 ---
 
 # Richtlinien zum Upload von Repositories
-Damit wir kein Chaos auf HSR-Stud haben, bitten wir euch folgende Grundregel bezüglich der Benennung zu befolgen:
+Damit wir kein Chaos auf HSR-Stud haben, bitten wir euch folgende Grundregeln bezüglich der Benennung zu befolgen:
 Jedes Repo sollte:
-a.) eine Lizenz enthalten, die klar deklariert, wie man die Zusammenfassung verwenden darf
-b.) mit Tags zu Modulname, Semesternummer, Studiengang versehen sein
-c.) ein ReadMe enthalten mit gernellen Informationen
-d.) sämtliche Contributoren aufführen
-e.) den richtigen Namen enthalten
+-  eine Lizenz enthalten, die klar deklariert, wie man die Zusammenfassung verwenden darf
+-  mit Tags zu Modulname, Semesternummer, Studiengang versehen sein
+-  ein ReadMe enthalten mit generellen Informationen (siehe ReadMe aus Vorlage-Repo)
+-  sämtliche Contributoren aufführen
+-  den richtigen Namen enthalten (siehe Namenskonvention)
 
 ### Namenskonvention
-a.) ModulName: Bei einem Repo von einem Fach von dem es bisher noch keine Zusammenfassung gab
-b.) ModulName_Jahr: Bei einem neuen Repo, wo es schon eine erste Zusammenfassung gab
-c.) Kein neues Repo: Wenn ein bestehendes Repo lediglich leicht abgeändert wurde
+1. ModulName: Bei einem Repo von einem Fach von dem es bisher noch keine Zusammenfassung gab
+2. ModulName_Jahr: Bei einem neuen Repo, wo es schon eine erste Zusammenfassung gab
+3. Kein neues Repo: Wenn ein bestehendes Repo lediglich leicht abgeändert wurde
 
 # Wie erstelle ich ein Repository auf HSR-Stud?
 ### Erstelle ein lokales Repository mit Sourcetree
