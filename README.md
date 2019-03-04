@@ -14,7 +14,7 @@ Du findest hier Informationen zu Fragen wie:
 #### Inhaltsverzeichnis
 - [Installation](https://github.com/HSR-Stud/Willkommen#installation)  
 - [Wie finde ich Repositorys auf HSR-Stud?](https://github.com/HSR-Stud/Willkommen#wie-finde-ich-repositorys-auf-hsr-stud)
-- [HSR-Stud Vorgaben zur Erstellung & Bearbeitung von Repositories?](https://github.com/HSR-Stud/Willkommen#hsr-stud-vorgaben-zur-erstellung-und-bearbeitung-von-respositories)
+- [HSR-Stud Vorgaben für Repositories?](https://github.com/HSR-Stud/Willkommen#hsr-stud-vorgaben-zur-erstellung-und-bearbeitung-von-respositories)
 - [Wie bearbeite ich ein bestehendes Repository auf HSR-Stud?](https://github.com/HSR-Stud/Willkommen#wie-bearbeite-ich-ein-bestehendes-repository-auf-hsr-stud) 
 - [Wie erstelle ich ein neues Repository auf HSR-Stud?](https://github.com/HSR-Stud/Willkommen#wie-erstelle-ich-ein-neues-repository-auf-hsr-stud) 
 
@@ -134,7 +134,7 @@ Alle Repos [MSE](https://github.com/search?q=topic%3Amse+org%3AHSR-Stud&type=Rep
 
 ---
 
-# HSR-Stud Vorgaben zur Erstellung & Bearbeitung von Repositories?
+# HSR-Stud Vorgaben für Repositories?
 Damit ein Dokument in die HSR-Stud Gruppe aufgenommen werden kann, gibt es einige zwingende Vorgaben.
 Jedes Repo muss:
 -  eine Lizenz enthalten, die klar deklariert, wie man die Zusammenfassung verwenden darf
