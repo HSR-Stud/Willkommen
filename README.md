@@ -171,11 +171,11 @@ Format:
 Vorname Name (HSR-Kürzel)  ...eine Zeile pro Person.
 
 ## Tags hinzufügen 
-Bitte fügt eurem Repo die entsprechenden Tags in den Settings hinzu. Diese helfen es anderen Studenten die Repos zu finden und trägt zur Ordnung auf HSR-Stud bei. Es sollte mindesten ein Tag haben für:
+Bitte fügt eurem Repo die entsprechenden Tags in den Settings hinzu. Diese helfen anderen Studenten die Repos zu finden und trägt zur Ordnung auf HSR-Stud bei. Es sollte mindesten ein Tag haben für:
 - Kürzel des Studienfachs und evtl. Studienfach (z.B. IntTra, Integraltransformation) 
 - Studiengang (z.B. elektrotechnik, mse, informatik)
 - Semester (z.B. e-sem3 - Elektrotechnik Semester 3)
-Weitere Hinweise zu häufig verwendeten Tags findet du [hier](https://github.com/HSR-Stud/Willkommen/blob/master/HowTo-Find%20a%20Repository.md= ).
+Weitere Hinweise zu häufig verwendeten Tags findet du [hier](https://github.com/HSR-Stud/Willkommen#wie-finde-ich-repositorys-auf-hsr-stud).
 
 ## Namenskonvention
 1. ModulName: Bei einem Repo von einem Fach von dem es bisher noch keine Zusammenfassung gab
@@ -194,11 +194,13 @@ Wenn man das Package nag nutzt, werden l2tabu-Verstösse automatisch als Warnung
 
 # Wie bearbeite ich ein bestehendes Repository auf HSR-Stud?
 
-Du hast einen Fehler in einer bestehenden Zusammenfassung gefunden oder eine kleine Verbesserung/Veränderung in einem Rep0 gemacht?
+Du hast einen Fehler in einer bestehenden Zusammenfassung gefunden oder eine kleine Verbesserung/Veränderung in einem Repo gemacht?
 Dann solltest du folgenden Schritten folgen:
-1. xxx
-2. 
-3. 
+1. Fork das Repo in deinen persönlichen GitHub-Account.
+2. Bearbeite das soeben geforkte Repo.
+3. Erstelle einen Pull-Request. Eine Anleitung dazu findest du [hier](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork).
+
+[Home](https://github.com/HSR-Stud/Willkommen#willkommen)  
 
 ---
 # Wie erstelle ich ein neues Repository auf HSR-Stud?
