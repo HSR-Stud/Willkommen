@@ -88,7 +88,7 @@ GitHub basiert auf der Software Git, welche zur Versionskontrolle & -verwaltung 
 - [JabRef](http://www.jabref.org/)  
     Bibliograpy reference manager für BibTeX.
 - [LaTeX Table Generator](https://www.tablesgenerator.com/latex_tables/)
-    Generiere Tabellen und kopiere den LaTeX Code
+    Generiere Tabellen und kopiere den LaTeX Code.
 	  
 [Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
