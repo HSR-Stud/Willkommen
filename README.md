@@ -86,7 +86,9 @@ GitHub basiert auf der Software Git, welche zur Versionskontrolle & -verwaltung 
 - [matlab2tikz](https://tomlankhorst.nl/matlab-to-latex-with-matlab2tikz/)  
     Konvertiere Matlab-Plots in ein TikZ/Pgfplots.  
 - [JabRef](http://www.jabref.org/)  
-    Bibliograpy reference manager für BibTeX.  	  
+    Bibliograpy reference manager für BibTeX.
+- [LaTeX Table Generator](https://www.tablesgenerator.com/latex_tables)
+    Generiere Tabellen und kopiere den LaTeX Code
 	  
 [Home](https://github.com/HSR-Stud/Willkommen#willkommen)
 
