@@ -22,11 +22,20 @@ If you *don't know how to use neither LaTeX nor Git*, the best course of action 
 
 ## I want to write a new cheat sheet for a module
 
-### Templates
+We have [a template](https://github.com/HSR-Stud/VorlageZF) for you to use, to save yourself some work. But wait! Read a bit more below before starting.
 
 ### Checklist
 
+You may want to quickly check if
+
+  - I know LaTeX
+  - I know how to use Git
+  - I have a Github account
+  - There is not any previous cheat sheet for `<module name>`
+  - Or I am sure that I want to rewrite a new one from scratch
+
 ### Naming Convention
 
-### Write good LaTeX (please!)
+TODO
 
+### Write good LaTeX (please!) and commit messages
