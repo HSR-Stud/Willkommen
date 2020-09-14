@@ -37,7 +37,7 @@ LaTeX on the other hand is just a plain text document, you can use whatever soft
 
 ### Can I use LaTeX?
 
-Of course, LaTeX is completely free! To install LaTeX see [tutorial/install-latex](./tutorial/install-latex.md), then you may want to look into [tutorial/first-latex-document](./tutorial/first-latex-document.md) to learn to write your first document.
+Of course, LaTeX is completely free! To install LaTeX see [tutorials/install-latex](./tutorials/install-latex.md), then you may want to look into [tutorials/first-latex-document](./tutorials/first-latex-document.md) to learn to write your first document.
 
 TODO: merge previous resources such as HSR-Stud/HowTo
 
@@ -55,4 +55,4 @@ The tool Git synchronizes documents between many computers, and although not str
 
 ### What is Travis CI?
 
-CI stands for *Continuous integration* and Travis is Github's CI product. Continuous integration for our purposes is a computer, kindly offered by Github, that automatically compiles our LaTeX sources, to check for its correctness and to publish them as PDFs for those who don't have LaTeX installed on their computers. To set up Travis for your document see [tutorials/setup-travis](./tutorial/setup-travis.md).
+CI stands for *Continuous integration* and Travis is Github's CI product. Continuous integration for our purposes is a computer, kindly offered by Github, that automatically compiles our LaTeX sources, to check for its correctness and to publish them as PDFs for those who don't have LaTeX installed on their computers. To set up Travis for your document see [tutorials/setup-travis](./tutorials/setup-travis.md).
