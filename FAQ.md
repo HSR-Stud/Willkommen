@@ -51,7 +51,7 @@ TODO: Link to tutorials and contact infos.
 
 ### What is Github?
 
-The tool Git synchronizes documents between many computers, and although not strictly necessary, there is usually one computer that acts as the *origin* or "central server". Github is a service that offers that, a place to put your documents that everyone can easily reach from anywhere (and some other things, like an issue tracker, ...).
+The tool Git synchronizes documents between many computers, and although not strictly necessary, there is usually one computer that acts as the *origin* or "central server". Github is a service that offers that, a place to put your documents that everyone can easily reach from anywhere (plus some other things, like an issue tracker, ...).
 
 ### What is Travis CI?
 
