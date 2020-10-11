@@ -34,8 +34,61 @@ You may want to quickly check if
   - There is not any previous cheat sheet for `<module name>`
   - Or I am sure that I want to rewrite a new one from scratch
 
-### Naming Convention
+## HSR-Stud Vorgaben für Repositories?
+Damit ein Dokument in die HSR-Stud Gruppe aufgenommen werden kann, gibt es einige zwingende Vorgaben.
+Jedes Repo muss:
+-  eine Lizenz enthalten, die klar deklariert, wie man die Zusammenfassung verwenden darf
+-  sämtliche Contributoren/Autoren aufführen
+-  mit Tags zu Modulname, Semesternummer, Studiengang versehen sein
+-  den richtigen Namen enthalten - also die Namenskonvention erfüllen
 
-TODO
+Hat folgende Struktur:
+- image (Ordner)
+- tex 
+- license
+- .gitignore
+- README.md
 
-### Write good LaTeX (please!) and commit messages
+Wenn du unsere Vorlage [Vorlage](https://github.com/HSR-Stud/VorlageZF) benützt, ist vieles einfacher und schon implementiert.
+
+### Inhalt des README.md
+#### DOs
+- Name des Repos
+- Verwendungszweck (Formelsammlung, Zusammenfassung, Cheatsheet)
+- kurze Beschreibung über Inhalt (1-5 Sätze)
+- Latex Tool zum kompilieren (zB: xelatex)
+- Lizenz
+
+#### Optional
+- Seitenzahl oder wie es ausgedruckt werden soll.
+- Inhaltsverzeichnis
+- woher das Repo kommt
+
+#### Dont's
+alles das von Semester zu Semester ändert
+- Prüfungsinhalt
+- erlaubte Hilfsmittel an Prüfung
+
+### Lizenz deklarieren 
+Die Zusammenfassung muss als Creative Commons oder Public Domain veröffentlicht werden. Die Lizenz muss im README.md UND in der LICENSE.txt UND im Dokument deklariert sein. 
+
+Falls nicht trifftige Gründe dagegen sprechen, bitten wir dich folgende Lizenz zu verwenden:
+- CC by-nc-sa (Namensnennung, nicht kommerziell, Weitergabe unter gleichen Bedingungen)
+
+Alternativ wären auch folgende Lizenzen möglich:
+- CC by (Namensnennung)
+- CC by-sa (Namensnennung, Weitergabe unter gleichen Bedingungen)
+- CC by-nc (Namensnennung, nicht kommerziell)
+- CC0 (Public Domain, keine Einschränkungen)
+Die CC-Lizenz welche keine Bearbeitung erlaubt ist dabei *nicht* zugelassen!
+Weitere Details gibts auf http://creativecommons.org/licenses/.
+
+
+### Namenskonvention
+Grundsätzlich gilt: Es sollte wieder in das ursprüngliche Git-Projekt zurückgeforkt werden!
+(Dies ist der Sinn und Zweck von HSR-Stud, dass sich die Formelsammlungen dem Stoff anpassen.)
+
+Hast du ein **neues** Repo erstellt, gilt folgende Namenskonvention:
+1. ModulName: Bei einem Repo von einem Fach von dem es bisher noch keine Zusammenfassung gab.
+2. ModulName_Jahr: Bei einem neuen Repo, wo es schon eine erste Zusammenfassung gab.
+3. ModulName_Jahr_Nummer: Bei einem neuen Repo, wo es schon eine Zusammenfassung im gleichen Jahr gab.
