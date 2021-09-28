@@ -14,29 +14,18 @@ Many courses are taught every year, with examinations that are always more or le
 On the StudentenPortal, already made cheat sheets are published for everyone to use, but if there is a little typo or something is not quite right, there is only one way to correct the mistake: by asking the original author to fix it.
 But what if the original author is no longer a student? Or if he's too busy with his / her work? Wouldn't be nice if you could fix it yourself? On HSR-Stud you can.
 
-## Wo finde ich welches Modul?
+## Where do I find a module?
 
-Gehe auf: [Module finden](./document-list.md)
+See [the document list](./document-list.md).
 
-## Wie kann ich mitmachen?
+## How can I help?
 
-Wenn du HSR-Stud organisieren möchtest, ein Repo verbessern oder ein neues Schreiben.
-Bist du herzlich Willkommen:-)
-[Jetzt mitmachen!](./contributing.md)
+If you want to be a part of the organization, correct an existing document or write a new one that is still missing, you're very welcome! [Read here how you can contribute](./contributing.md).
 
-## Erste Schritte
+### First steps
 
-Unter [Tutorials](./tutorials) findest du folgendes:
+We are working on some [tutorials](./tutorials) to get you started. The best of course is to ask us directly, in person on campus.
 
-- Latex installieren
-- Git installieren
-- Latex Dokument erstellen
-- Travis (für Fortgeschrittene)
+### Frequently Asked Questions (FAQ)
 
-## Weitere Fragen?
-
-Dann bist du hier genau richtig: [FAQ](./FAQ.md)
-
-## Weitere nützliche Tools
-
-Findest du hier: [resources](./resources.md)
+See [FAQ](./FAQ.md). There are also some [additional resources](./resources.md) you may be interested in.
