@@ -20,7 +20,7 @@ See [the document list](./document-list.md).
 
 ## How can I help?
 
-If you want to be a part of the organization, correct an existing document or write a new one that is still missing, you're very welcome! [Read here how you can contribute](./contributing.md).
+If you want to be a part of the organization, correct an existing document or write a new one that is still missing, you're very welcome! [Read here how you can contribute](./Contributing.md).
 
 ### First steps
 
