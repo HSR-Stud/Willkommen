@@ -42,7 +42,23 @@
     ```latex
     I want \emph{this part} of the sentence to stand out
       ```  
-    Why? Because `\emph{}` switches the shape correctly, for example if the text is already in emphasis, then the next emphasis will be upright, i.e. `\emph{... \emph{...}}` works, whereas `\textit{... \textit{...}}` doesn't.
+    Why? Because `\emph{}` switches the shape correctly, for example if the text is already in emphasis, then the next emphasis will be upright, i.e. `\emph{... \emph{...}}` works, whereas `\textit{... \textit{...}}` doesn't. If you want your emphasis use **bold** (and go against every convention), save the follwing snippet in a file `bfemph.sty`
+    ```latex
+    \NeedsTeXFormat{LaTeX2e}
+    \ProvidesPackage{bfemph}[2022/01/10 v0.1 Bold Emphasis]
+
+    \makeatletter
+    \long\expandafter\def\csname em \endcsname{%
+        \@nomath\em
+        \if b\expandafter\@car\f@series\@nil
+        \itshape
+        \else
+        \bfseries
+        \fi
+    }
+    \makeatother
+    ```
+    and then in your main document you can do `\usepackage{bfemph}`; `\emph{}` will be bold and `\emph{\emph{}}` will be bold italic.
 
 4. Avoid manually styling your document, *bis*. Do not use `\textbf` and co. to build paragraph titles, section headings or anything similar. There are some appropriate constructs for that:
     - Numbered headings `\part`, `\chapter`, `\section`, `\subsection`, `\subsubsection`, `\paragraph` ...
