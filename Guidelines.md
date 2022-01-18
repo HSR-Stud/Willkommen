@@ -18,6 +18,7 @@
 
     This is my second paragraph.
     ```
+    The second paragraph will start with an indent (empty space at the beginning) if you don't like this behaviour you can remove it by putting `\usepackage{parskip}` in the preamble.
 
 2. Never use old macros `\bf`, `\it`, `\em` to change the font weight or shape, use `\textbf{}`, `\textit{}`, `\emph{}`. That is because `{\bf {\it ...}}` is **not** bold italic, whereas `\textbf{\textit{...}}` is. If you really need to use `\bf`, or `\it` use `\bfseries` resp. `\itshape` instead.  
     Don't:  
