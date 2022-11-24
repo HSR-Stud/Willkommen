@@ -34,7 +34,7 @@ You may want to quickly check if
   - There is not any previous cheat sheet for `<module name>`
   - Or I am sure that I want to rewrite a new one from scratch
 
-Next you should take a look at our [LaTeX Guidelines](./Guidelines), to avoid committing typesetting crimes.
+Next you should take a look at our [LaTeX Guidelines](./Guidelines.md), to avoid committing typesetting crimes.
 
 ### Requirements
 
